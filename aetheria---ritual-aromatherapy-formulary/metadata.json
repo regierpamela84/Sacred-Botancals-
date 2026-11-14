@@ -1,0 +1,8 @@
+{
+  "name": "Aetheria - Ritual Aromatherapy Formulary",
+  "description": "Master ritual-grade oil recipe generator combining safe dilution guidelines, 30/50/20 aromatic note balance, astrological correspondences, and numerological vibrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
